@@ -2,7 +2,7 @@
   "name": "side-stacker",
   "version": "1.0.0",
   "description": "Side Stacker Game Server",
-  "main": "app.js",
+  "main": "server.js",
   "repository": "git@github.com:ferminromero/side-stacker.git",
   "author": "Fermin Romero III <ferminromero3@gmail.com>",
   "license": "MIT",

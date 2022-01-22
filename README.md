@@ -2,9 +2,9 @@
 
 This repo contains a server and client for a two-player browser game in real-time.
 
-The server uses node.js and can be found in app.js
+The server is Node.js and can be found in [server.js](/server.js)
 
-The client uses React.js and can be found in the folder side-stacker-client
+The client is React.js and can be found in [side-stacker-client](/side-stacker-client)
 
 
 ## Game Rules
